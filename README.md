@@ -32,7 +32,7 @@ make build
 ```
 Запуск билда
 ```bash
-.\server
+.\pz4-todo
 ```
 
 ## Конфигурация
